@@ -6,6 +6,8 @@ public edition
 
 build example is here https://shinyoshiaki.netlify.com/
 
+used d3.js for pie chart.
+
 # How to build
 
 edit ./enviroment.ts
