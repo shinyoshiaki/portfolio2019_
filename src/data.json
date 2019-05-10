@@ -1,0 +1,99 @@
+{
+  "twitter": {
+    "profile": {
+      "desc": "大学4年。P2PとVRとWeb系に興味がある。blockchainやDHT、WebRTCについて勉強中。 ReactとTypeScriptが得意。最近Angularを始めました。 趣味は海外ドラマと洋画の鑑賞  https://t.co/NCyT0sj5fW",
+      "img": "https://pbs.twimg.com/profile_images/1098531672574681088/_HlOTFoV_200x200.png"
+    }
+  },
+  "github": {
+    "repos": [
+      { "type": "TypeScript", "count": 76 },
+      { "type": "JavaScript", "count": 38 },
+      { "type": "HTML", "count": 10 },
+      { "type": "C#", "count": 8 },
+      { "type": "Go", "count": 4 },
+      { "type": "Java", "count": 2 },
+      { "type": "Kotlin", "count": 2 },
+      { "type": "CSS", "count": 2 },
+      { "type": "Shell", "count": 2 }
+    ],
+    "pinned": [
+      {
+        "name": "kad-rtc",
+        "description": "Kademlia with WebRTC for browser and node.js. written in typescript. can use as npm package directly.",
+        "url": "https://github.com/shinyoshiaki/kad-rtc",
+        "__typename": "Repository"
+      },
+      {
+        "name": "blockchain-ts",
+        "description": "Educational blockchain project written in typescript. Run on browser or nodejs. No network function. you need to combine with https://github.com/shinyoshiaki/kad-rtc or made your self. Working example is here https://github.com/shinyoshiaki/kad-blockchain .",
+        "url": "https://github.com/shinyoshiaki/blockchain-ts",
+        "__typename": "Repository"
+      },
+      {
+        "name": "kad-blockchain",
+        "description": "This is a educational blockchain project. Run on Kademlia network through WebRTC. Implemented by kad-rtc and blockchain-ts.",
+        "url": "https://github.com/shinyoshiaki/kad-blockchain",
+        "__typename": "Repository"
+      },
+      {
+        "name": "webrtc4me",
+        "description": "This is a webrtc wrapper library for browser and node.js. Implemented very easy signaling way. Support multi label datachannel and media stream.",
+        "url": "https://github.com/shinyoshiaki/webrtc4me",
+        "__typename": "Repository"
+      },
+      {
+        "name": "keep-clone",
+        "description": "implement by React and GraphQL",
+        "url": "https://github.com/shinyoshiaki/keep-clone",
+        "__typename": "Repository"
+      },
+      {
+        "name": "unity-signaling",
+        "description": "UnityのWindows向けWebRTCネイティブモジュールを使った単純なシグナリングのサンプル",
+        "url": "https://github.com/shinyoshiaki/unity-signaling",
+        "__typename": "Repository"
+      }
+    ]
+  },
+  "contentful": {
+    "articles": [
+      {
+        "id": "6PxUvcj3Ay36J08zzLy8RE",
+        "createdAt": "2019-05-01T03:04:49.705Z",
+        "title": "hello",
+        "md": "mdtest\n\n![Screenshot from 2019-04-27 18-30-23](//images.ctfassets.net/q083gv5v73hr/4FEERe2JhC3XQqoRMMm54Y/8893e897a2c6bd4addb20222e4df64a3/Screenshot_from_2019-04-27_18-30-23.png)\n\nsome",
+        "tag": ["test"]
+      },
+      {
+        "id": "oWTMhBXqBaGfdIZL3IDzd",
+        "createdAt": "2019-05-01T15:44:51.078Z",
+        "title": "今日",
+        "md": "画像\n\n![スクリーンショット (3)](//images.ctfassets.net/q083gv5v73hr/6uLbo80tft9UdZYloldRRr/14911abdb342b386a3f4cb576ef637df/_____________________________3_.png)\n\nテスト",
+        "tag": ["test"]
+      },
+      {
+        "id": "7FFBxHD6hQnl0d8C1ns35K",
+        "createdAt": "2019-05-01T03:05:04.747Z",
+        "title": "empty",
+        "md": "aaa",
+        "tag": ["test", "tag"]
+      },
+      {
+        "id": "7kKePEgqHF88HwobZuGrs3",
+        "createdAt": "2019-05-04T05:28:27.668Z",
+        "title": "テスト",
+        "md": "マークダウン",
+        "tag": ["テスト"]
+      }
+    ],
+    "tags": ["test", "tag", "テスト"]
+  },
+  "speakerdeck": {
+    "urls": [
+      "https://speakerdeck.com/player/5d93af8b89a742daaebf8a16e5f2c85c",
+      "https://speakerdeck.com/player/2d6be84714374cd5904991ff6c1b2c04",
+      "https://speakerdeck.com/player/33e082cac7274899a95b682139360394"
+    ]
+  }
+}
