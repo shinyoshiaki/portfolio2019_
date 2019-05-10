@@ -1,5 +1,4 @@
 const withTypescript = require("@zeit/next-typescript");
-const Twitter = require("twitter");
 const data = require("./src/data.json");
 const withSass = require("@zeit/next-sass");
 const withCSS = require("@zeit/next-css");
