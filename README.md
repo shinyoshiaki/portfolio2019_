@@ -1,4 +1,4 @@
-# PortfolioSite Next.js + TypeScript + StaticSiteGenerate
+# PortfolioSite Next.js(as StaticSiteGenerater) + TypeScript
 
 public edition
 
