@@ -1,5 +1,7 @@
 # PortfolioSite Next.js(as StaticSiteGenerater) + TypeScript
 
+based on https://github.com/zeit/next.js/tree/canary/examples/with-typescript-styled-components
+
 public edition
 
 build example is here https://shinyoshiaki.netlify.com/
